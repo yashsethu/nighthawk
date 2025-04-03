@@ -53,6 +53,7 @@ Changes:
 ## Frame
 I wanted to keep it simple here, 15mm extrusions with a very simple architecture. The v.02 was too complicated with the tophat and skirts so yeet they go! Then, I remade it so I wouldn't have to hold everything together with 3d printed parts. (3 hrs)
 ![image](https://github.com/user-attachments/assets/ec3bfd3c-25a0-4ecb-8a03-405cacc6d4c2)
+
 Changes:
 - Screw the tophat! If I really want it later, I'll make it but I'm too lazy to copy it and too broke to buy more extrusions
 - No skirts! I moved the stepper so I have more space now!
