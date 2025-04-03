@@ -24,6 +24,7 @@ Final toolhead:
 ## Gantry
 For the gantry, I'm going to copy the basic config and geometry of the Voron gantry, but change up spacing + mounts to fit my toolhead and remove legacy Voron attachmnents like support for the tophat and weirdly shaped (IMO) x/y axis endstops. (5 hrs)
 ![image](https://github.com/user-attachments/assets/1bee0fc3-490e-4f85-9b37-064485aadf3c)
+
 Changes:
 - Redesigned the cursed toolhead mount that has this part that inexplicably intersects with the cowl (It might be a support? Idk, but took some digging to delete it (2 hrs)
 - Deleted legacy x/y endstop mounts (See final assembly for new mounts) (30 min)
