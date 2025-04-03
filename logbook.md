@@ -1,6 +1,9 @@
 # Nighthawk 
 Nighthawk is a budget, beginner friendly core-xy printer inspired by the Voron 0.2! Ideally, the goal is for it to be as fast as possible!
 
+CAD: https://cad.onshape.com/documents/9f6081b42dd620e3b70b8ed4/w/61d0d2c4dd2d5a6a0ed231f5/e/00db797bbb767489537577aa?renderMode=0&uiState=67ee31a8cbe352034e171d82
+Note: I couldn't find a CAD for 150mm stepper, so 200mm is in the CAD. Yes, I know it will hit the x/y axis.
+
 ## Planning
 Desired specifications:
 - 150x150x150 build volume
